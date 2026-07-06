@@ -1,0 +1,29 @@
+# Prioritization
+
+- **Reach**:
+  - _1_: ~10% (Noticably, but very few)
+  - _3_: ~25%
+  - _5_: ~100% (Bascially everybody)
+- **Impact**:
+  - **Initial Load**:
+    - **Weight**: 4
+    - _0_: Not noticable
+    - _3_: Minor (25% reduction)
+    - _5_: Major (50% reduction)
+  - **Usability**:
+    - **Weight**: 5
+    - _0_: No change
+    - _3_: Most will notice
+    - _5_: Transformative
+  - **User Delight**:
+    - **Weight**: 3
+    - _0_: No change
+    - _2_: Not notice, but impacts feeling
+    - _3_: Most will notice
+    - _5_: People with tweet about
+- **Effort**:
+  - _1_: 1 Day
+  - _2_: 1/2 Sprint
+  - _3_: 1 Sprint
+  - _4_: 2 Sprints
+  - _5_: >2 Sprint
